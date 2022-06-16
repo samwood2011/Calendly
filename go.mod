@@ -1,3 +1,3 @@
-module github.com/helixspiral/calendly
+module github.com/samwood2011/calendly
 
-go 1.17
+go 1.18
